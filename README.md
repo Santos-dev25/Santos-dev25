@@ -6,6 +6,10 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santos-dev25&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="left">
+  <img src="https://github.com/Santos-dev25/Santos-dev25/blob/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ## 💻 About Me
 
 I build **backend applications** and **REST APIs** using Java, Python, and SQL.  
