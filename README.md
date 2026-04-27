@@ -7,7 +7,11 @@
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Santos-dev25/Santos-dev25/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santos-dev25/Santos-dev25/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santos-dev25/Santos-dev25/output/snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Santos-dev25/Santos-dev25/output/snake.svg">
+  </picture>
 </p>
 
 ## 💻 About Me
