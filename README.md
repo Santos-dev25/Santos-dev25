@@ -2,11 +2,6 @@
 ### Software Development Student | Backend & Cybersecurity
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Santos-dev25&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santos-dev25&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santos-dev25/Santos-dev25/output/snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santos-dev25/Santos-dev25/output/snake.svg">
